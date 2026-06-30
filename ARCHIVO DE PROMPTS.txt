@@ -7,6 +7,11 @@ Actúa como un desarrollador web front-end experto en HTML, CSS y JavaScript, co
 Tengo un código básico de un juego llamado "Juego Limon" y "Juego Cazando". Quiero que le mejores el diseño para que no se vea sencillo, que sea hermoso, brillante y con efectos visuales. Mantén toda la funcionalidad original sin modificar su comportamiento.
 
 
+PROMPT 2 - AJUSTE DE POSICIÓN DE LAS FLECHAS
+
+Las flechas de los botones no quedan bien posicionadas. Ponlas bien alineadas, centradas y que se vean perfectas. No cambies el resto del diseño, solo corrige la ubicación, tamaño y alineación de los botones.
+
+
 
 
 
