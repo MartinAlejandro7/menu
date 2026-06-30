@@ -36,6 +36,13 @@ PROMPT 6 - MODIFICACIÓN SOLO DE TEXTOS
 
 
 
+PROMPT 7 - INCORPORAR INFORMACIÓN DEL CURSO Y DESCRIPCIÓN
+
+Agrega en la página principal un texto que indique el nombre del curso y una breve descripción de los proyectos que contiene esta sala de juegos. Mantén el mismo estilo visual, colores y efectos que ya tiene el resto de la interfaz.
+
+
+
+
 
 
 
