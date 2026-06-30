@@ -12,6 +12,13 @@ PROMPT 2 - AJUSTE DE POSICIÓN DE LAS FLECHAS
 Las flechas de los botones no quedan bien posicionadas. Ponlas bien alineadas, centradas y que se vean perfectas. No cambies el resto del diseño, solo corrige la ubicación, tamaño y alineación de los botones.
 
 
+PROMPT 3 - MEJORA DEL DISEÑO GENERAL
+
+Quiero que el diseño se vea más llamativo, no tan apagado. Cambia el fondo morado por algo más espectacular, dinámico y con movimiento suave. También haz que el texto del autor se vea más chévere, resalte y tenga su propio estilo.
+
+
+
+
 
 
 
