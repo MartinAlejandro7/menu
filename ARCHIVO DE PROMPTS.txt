@@ -24,6 +24,12 @@ Modifica el recuadro del área de juego (canvas) para que se vea con mejor estil
 
 
 
+PROMPT 5 - CREACIÓN DE OTRO JUEGO CON EL MISMO ESTILO
+
+Haz otro juego igual a este, con el mismo diseño, colores, brillos y funciones, pero solo cambia los textos para que sea un juego distinto y no se confunda con el primero.
+
+
+
 
 
 
