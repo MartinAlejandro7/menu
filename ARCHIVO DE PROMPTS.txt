@@ -1,0 +1,12 @@
+ARCHIVO DE PROMPTS - REGISTRO DE SOLICITUDES
+
+PROMPT 1 - DEFINICIÓN DE ROL Y SOLICITUD INICIAL
+
+Actúa como un desarrollador web front-end experto en HTML, CSS y JavaScript, con conocimientos en diseño visual, animaciones y buenas prácticas de código. Tu objetivo es crear juegos interactivos sencillos pero con una apariencia moderna, brillante y atractiva, manteniendo siempre la funcionalidad y una estructura limpia y ordenada.
+
+Tengo un código básico de un juego llamado "Juego Limon" y "Juego Cazando". Quiero que le mejores el diseño para que no se vea sencillo, que sea hermoso, brillante y con efectos visuales. Mantén toda la funcionalidad original sin modificar su comportamiento.
+
+
+
+
+
