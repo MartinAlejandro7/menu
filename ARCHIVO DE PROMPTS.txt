@@ -30,6 +30,11 @@ Haz otro juego igual a este, con el mismo diseño, colores, brillos y funciones,
 
 
 
+PROMPT 6 - MODIFICACIÓN SOLO DE TEXTOS
+
+ No cambies nada del diseño ni de las funciones. Solo cambia los textos: título, autor, etiquetas de puntos, botones y mensajes para que el juego se llame "Recolector de Estrellas".
+
+
 
 
 
