@@ -18,6 +18,12 @@ Quiero que el diseño se vea más llamativo, no tan apagado. Cambia el fondo mor
 
 
 
+PROMPT 4 - REDISEÑO DEL CANVAS, PERSONAJE Y OBJETO
+
+Modifica el recuadro del área de juego (canvas) para que se vea con mejor estilo, con bordes luminosos y sombras que resalten. Además, cambia el dibujo del personaje y la comida para que se vean mejor: quiero que el personaje sea un gato y la comida sea algo que parezca alimento para gatos, con detalles, colores bonitos y efectos visuales.
+
+
+
 
 
 
