@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ALEJANDRO SIMBAÑA — SUS JUEGOS JS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Partículas de fondo -->
+  <div class="bg-particles" aria-hidden="true">
+    <span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span>
+  </div>
+
+  <main class="contenedor">
+
+    <!-- ── HERO ── -->
+    <header class="hero">
+      <div class="hero__badge">
+        <div class="avatar">AS</div>
+        <span>ALEJANDRO SIMBAÑA</span>
+        <span class="sep">·</span>
+        
+      </div>
+
+      <h1 class="hero__titulo">
+        <span class="bloque bloque--rosa">Programando</span>
+        <span class="bloque bloque--amarillo">con</span>
+        <span class="bloque bloque--cyan">JavaScript</span>
+      </h1>
+
+      <p class="hero__sub">
+       ¡Prepárate para jugar! 🚀🎮
+      </p>
+    </header>
+
+    <!-- ── BANNER CURSO ── -->
+    <section class="curso" aria-label="Información del curso">
+      <div class="curso__icono">📚</div>
+      <div class="curso__texto">
+        <h2>Curso: Programación Web con JavaScript</h2>
+        <p>
+          Cada juego que encontrarás aquí fue creado con JavaScript como parte de mi proceso de aprendizaje. Atrévete a jugarlos, supera los desafíos y disfruta de la experiencia.
+        </p>
+      </div>
+    </section>
+
+    <!-- ── TÍTULO SECCIÓN ── -->
+    <p class="seccion-titulo">🕹️ &nbsp;Elige tu juego</p>
+
+    <!-- ── TARJETAS ── -->
+    <div class="grid-juegos">
+
+      <!-- CAZANDO -->
+      <article class="tarjeta tarjeta--cazando">
+        <div class="tarjeta__deco" aria-hidden="true">🐾</div>
+        <div class="tarjeta__emoji">🐱</div>
+        <span class="tag">Juego 1</span>
+        <h3>Cazando</h3>
+        <p class="subtitulo">¡Atrapa la comida!</p>
+        <p class="descripcion">
+          Controla a un gato que debe atrapar toda la comida
+          antes de que se acabe el tiempo. Suma la mayor
+          cantidad de puntos posible y bate tu récord.
+        </p>
+        <!-- 🔗 Cambia esta URL por tu link real de Vercel -->
+        <a class="btn btn--gato" href="https://juego-cazando-i8mt.vercel.app/" target="_blank" rel="noopener">
+          ¡A jugar! 🐾
+        </a>
+      </article>
+
+      <!-- LIMONES -->
+      <article class="tarjeta tarjeta--limones">
+        <div class="tarjeta__deco" aria-hidden="true">⭐</div>
+        <div class="tarjeta__emoji">🍋</div>
+        <span class="tag">Juego 2</span>
+        <h3>Atrapar Limones</h3>
+        <p class="subtitulo">¡Cada limón cuenta!</p>
+        <p class="descripcion">
+          Atrapa la mayor cantidad de limones antes de que
+          caigan al suelo. La velocidad aumenta cada vez que
+          avanzas — ¿hasta dónde puedes llegar?
+        </p>
+        <!-- 🔗 Cambia esta URL por tu link real de Vercel -->
+        <a class="btn btn--limon" href="https://juego-limones-phi-self.vercel.app/" target="_blank" rel="noopener">
+          ¡A jugar! 🍋
+        </a>
+      </article>
+
+    </div>
+
+    <!-- ── FOOTER ── -->
+    <footer class="footer">
+      <p>Hecho con ❤️ por <strong>ALEJANDRO SIMBAÑA</strong> &nbsp;·&nbsp; Curso de JavaScript</p>
+    </footer>
+
+  </main>
+
+</body>
+</html>
